@@ -7,9 +7,6 @@ Purpose of the project- The workbook represents Table, Data Combining Techniques
 
 
 
-![2](https://github.com/user-attachments/assets/6297c2a5-d830-4df3-ae70-df82886834a0)
-
-
 
 ![2](https://github.com/user-attachments/assets/454d8fca-af88-4a1a-b3e7-dddf0880a9f0)
 
